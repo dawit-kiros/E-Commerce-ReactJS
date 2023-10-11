@@ -1,20 +1,48 @@
-# Getting Started with Create React App
+# E-Commerce App with ReactJS
 
-This project was bootstrapped with [Create React App]
+Welcome to our E-Commerce app built with ReactJS. This application provides an online platform for users to browse and purchase products. It includes features such as product listings, user authentication, shopping cart functionality, and more.
 
-## Available Scripts
+![E-Commerce App Screenshot](screenshot.png)
 
-In the project directory, you can run:
+## Table of Contents
 
-### `npm start`
+- [Features](#features)
+- [Demo](#demo)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Technologies Used](#technologies-used)
+- [Contributing](#contributing)
+- [License](#license)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Features
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Browse and search for products.
+- User authentication and account management.
+- Add products to the shopping cart.
+- Review and update the shopping cart.
+- Checkout and place orders.
+- View order history.
+- Admin functionality for product management (if applicable).
 
-### `npm test`
+## Demo
 
-Launches the test runner in the interactive watch mode.\
+(🚧 Demo under construction ... 🚧) 
 
+## Getting Started
+
+### Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+
+- Node.js and npm installed.
+- Git installed (for cloning the repository).
+- API server (if your app requires one).
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/dawit-kiros/E-Commerce-ReactJS.git
